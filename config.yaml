@@ -12,4 +12,4 @@ metrics:
         port: 8778
         context: jolokia
         monitorDeadlocks: false
-        deadLockMonitoringInterval: 300
+        deadLockMonitoringInterval: 30
