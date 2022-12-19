@@ -2,7 +2,7 @@ key: RcGkqmPyur+9o+VYKE1AYB2QYfFexGFuWrCSwD2BWl7TTi49AyCiMeyc7NIdTgi1N3x+mLLKZLo
 metrics:
   plugins:
     - name: jvmjolokia
-      interval: 300
+      interval: 30
       enabled: true
       config:
         ip: 127.0.0.1
